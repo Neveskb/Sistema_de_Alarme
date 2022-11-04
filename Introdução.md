@@ -10,8 +10,7 @@ Com a volta do funcionamento das lojas em São Paulo, segundo dados da Secretari
 
 Segundo o Jornal A Folha do Médio Norte:“[...]O mundo hoje é comandado pela tecnologia e cada vez mais se faz        necessário conhecê-la e dominá-la. Em nossas casas, escritórios, linhas de produção das indústrias, veículos, enfim para todos os lados que olhamos lá está ela presente em nosso dia-a-dia. [...]”
 
- O projeto vem para diminuir os riscos de roubo em lojas. O alarme de movimentos foi projetado para ser capaz de ler objetos que exalam calor a um raio de detecção até 7 metros, quando acionado irá avisar o proprietário e enviara uma foto para o mesmo. Ele é composto por um Arduino UNO, um sensor PIR, led, OVEHEL HD 1080P.
-
+  O projeto vem para diminuir os riscos de roubo em lojas. O sistema vem com sensor de movimento e sensor de pressão. O sensor de movimento vai ser acionado, assim como diz o nome com um movimento, desse modo, o alarme vai ser disparado ligando um led de emergência. Já o alarme de pressão deve ser colocado em locais estratégicos, assim que for pisado ocorrerá o mesmo com o sensor de movimento. 
 #  Lista de referências:
 
 AXYON, Fernando. Como funcionam os sensores de movimento ativo e passivo e onde podem ser aplicados. SEGURANÇA ELETRONICA.2021.Disponivel aqui:
