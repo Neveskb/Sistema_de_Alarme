@@ -1,4 +1,4 @@
-# Alarme com Sensor de Movimens
+# Alarme com Sensor de Movimentos
 Thainá Paiva dos Santos
 Alice Tonelli Ramponi
 Leonardo dos Santos Sartoratto
