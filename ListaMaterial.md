@@ -7,5 +7,5 @@
 + Sensor PIR
 + Sensor de força 
 + Piezo
-+ Dois resistores 
++ Três resistores 
 + Doze jumpers
