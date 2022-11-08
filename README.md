@@ -11,3 +11,5 @@ mais detalhes.
 
 -------
 ## Menu 
++  [Introdução](https://github.com/Neveskb/Sistema_de_Alarme/blob/main/Introdu%C3%A7%C3%A3o.md)
++  [Lista de Materiais]() Aqui é o seguinte galera, voces vão criar uma nova pag, a thainá sabe fazer isso, e vao criar uma lista com as coisas que precisa ter para conseguir fazer o projeto. Depois disso vocês copiam o link e tacam na parte azul dentro do código aqui para ligar os dois. É isso, depois acaba. Qualquer coisa jajá estou aí. beijinhos amo vocês.
