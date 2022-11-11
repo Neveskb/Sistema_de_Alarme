@@ -1,5 +1,5 @@
 # Sistema de Alarme
-thainá Paiva, Leonardo Sartoratto, Alice Tonelli e Keythianne Neves
+Thainá Paiva, Leonardo Sartoratto, Alice Tonelli e Keythianne Neves
 
 
 --------
