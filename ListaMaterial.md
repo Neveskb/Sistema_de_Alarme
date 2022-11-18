@@ -5,7 +5,8 @@
 + Protoboard 
 + LED
 + Sensor PIR
-+ Sensor de força 
++ um botão
++ um interruptor 
 + Piezo
-+ Três resistores 
-+ Doze jumpers
++ Dois resistores 
++ Dezesseis jumpers
